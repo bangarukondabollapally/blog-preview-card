@@ -17,12 +17,12 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![](assets/images/screenshot.png)
+![](./assets/images/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add your Frontend Mentor solution URL here]
-- Live Site URL: [Add your deployed URL here]
+- [Solution](https://www.frontendmentor.io/solutions/html5-css-custom-properties-flexbox-min-for-responsive-width-TkY3RDzrhk)
+- [Live](https://blog-preview-card-psi-seven.vercel.app/)
 
 ## My process
 

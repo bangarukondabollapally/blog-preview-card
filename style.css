@@ -1,3 +1,10 @@
+:root {
+  --yellow: hsl(47, 88%, 63%);
+  --white: hsl(0, 0%, 100%);
+  --gray-500: hsl(0, 0%, 42%);
+  --gray-950: hsl(0, 0%, 7%);
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Figtree:ital,wght@0,300..900;1,300..900&display=swap');
 
 *,
@@ -12,13 +19,7 @@
 
 body {
    min-height: 100vh;
-   font-family: "Figtree";
-}
-:root {
-  --yellow: hsl(47, 88%, 63%);
-  --white: hsl(0, 0%, 100%);
-  --gray-500: hsl(0, 0%, 42%);
-  --gray-950: hsl(0, 0%, 7%);
+   font-family: "Figtree", sans-serif;
 }
 
 img {
@@ -37,7 +38,7 @@ main {
 
 .container {
     background-color: var(--white);
-    width: min(20em,90%);
+    width: min(24em,90%);
     padding: 1.3rem;
     border-radius: 1.2em;
     border: 1px solid black;
@@ -48,7 +49,7 @@ main {
 }
 
 .learn, .name{
-    font-size: 16px;
+    font-size: 1rem;
     font-weight: 800;
 }
 
@@ -60,7 +61,7 @@ main {
 }
 
 .date {
-    font-size: 16px;
+    font-size: 1rem;
     color: var(--gray-950);
 }
 
