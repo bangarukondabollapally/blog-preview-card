@@ -50,7 +50,7 @@ Used `min()` for responsive width without any media query — the card scales do
 
 ```css
 .container {
-    width: min(20em, 90%);
+    width: min(24em, 90%);
 }
 ```
 
