@@ -44,7 +44,7 @@ main {
     border: 1px solid black;
     display: flex;
     flex-direction: column;
-    gap: 2em;
+    gap: 1.5em;
     box-shadow: 10px 10px black;
 }
 
